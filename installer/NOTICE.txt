@@ -1,0 +1,18 @@
+THIRD-PARTY ASSETS / 非商用声明
+================================
+
+Miles Morales / Gwen Stacy PNGs:
+Source: PNG All
+- https://www.pngall.com/miles-spider-man-png/download/427647/
+- https://www.pngall.com/into-the-spider-verse-png/download/485993/
+License: free personal use; no redistribution per PNG All.
+This package includes them at the repository owner's decision.
+For personal, non-commercial use only. If you are a rights holder
+and want them removed, open an issue on the GitHub repository.
+
+Spider-Man, Spider-Verse, Miles Morales, Gwen Stacy are trademarks
+and copyrights of Marvel / Sony. This is an unofficial fan project,
+not affiliated with Marvel, Sony, OpenAI, or PNG All.
+
+Pixel-art Spider-Man decorations and theme code: original fan work.
+Code is MIT licensed; third-party character images are NOT MIT licensed.
