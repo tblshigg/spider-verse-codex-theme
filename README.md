@@ -1,0 +1,1 @@
+# Spider-Verse Theme for ChatGPT / Codex Desktop
